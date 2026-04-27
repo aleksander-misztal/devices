@@ -1,0 +1,23 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data — devices catalog and vector DB
+data/devices.json
+data/vdb/
+
+# Generated outputs
+architecture.pdf
+architecture.png
+*.pdf
+*.png
+
+# IDE
+.vscode/
+.idea/
